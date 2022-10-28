@@ -1,0 +1,137 @@
+body {
+    display: block;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+   }
+   
+.active{
+    list-style-type:none;
+    width: fit-content;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 0 auto;
+    }
+    img{
+        height: 300px;
+        margin: 0 auto 30px;
+        display: block;
+    }
+
+li a {
+    color: white;
+    text-decoration: none;
+    border-radius: 16px; 
+    padding: 16px;
+}
+
+li {
+    display:inline;
+    background-color: rgb(3, 3, 134);
+    border-radius: 16px; 
+    padding: 16px;
+}
+.active :hover{
+            background-color: grey;          
+}
+
+     .con1{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        width: 70%;
+        margin: 0 auto 100px auto;
+        text-align: left; 
+        line-height: 2;
+        display: block;
+     }
+     .con2{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        width: 100%;
+        margin: 0 auto 300px auto;
+        text-align: right; 
+        line-height: 2;
+        display: block;
+     }
+     .con3{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: 0 auto 300px auto;
+        text-align: left; 
+        line-height: 2;
+        display: block;
+     }
+     .con4{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: 0 auto 300px auto;
+        text-align: right; 
+        line-height: 2;
+        display: block;
+     }
+     .con5{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: 0 auto 300px auto;
+        text-align: left; 
+        line-height: 2;
+        display: block;
+     }
+     .linj{
+         width: fit-content;
+      border-radius: 16px;
+      float: right;
+     }
+
+     .biblelink {
+      border-radius: 16px; 
+      color: rgb(3, 3, 134);
+      text-decoration: none;
+     }
+     .biblelink:hover{
+      background-color: grey; 
+      width: fit-content;
+      border-radius: 16px; 
+   }
+     
+     h1 {
+    font-size: 20px;
+    color: rgb(3, 3, 134);
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   hr{ 
+    border-style:none;
+    height: 150px;
+    border-left: 0;
+    border-right: 0;
+    border-width: 7px;
+    border-bottom: 0;
+    width: 20%;
+    margin: auto;
+    color: rgb(3, 3, 134);
+   }
+   .mini1 {
+    height: 200px;
+    margin: 0;
+    float: left;
+      }
+      .mini2 {
+         height: 200px;
+         margin: 0 0 200px;
+         float: right;
+           }
+           .mini3 {
+            height: 200px;
+            margin: 0;
+            float: left;
+              }
+              .mini4 {
+                 height: 200px;
+                 margin: 0;
+                 float: right;
+                   }
+                   .mini5 {
+                    height: 200px;
+                    margin: 0;
+                    float: left;
+                      }
